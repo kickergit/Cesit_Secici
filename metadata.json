@@ -1,0 +1,5 @@
+{
+  "name": "HTML Real-time Previewer",
+  "description": "A simple and elegant real-time HTML editor and previewer. Write your HTML code in the editor panel and see the live rendered output instantly in the preview panel. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
